@@ -1,0 +1,2 @@
+crewai[anthropic]==1.15.23
+python-dotenv==1.2.3

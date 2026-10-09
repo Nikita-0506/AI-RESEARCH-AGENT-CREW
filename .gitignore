@@ -1,0 +1,20 @@
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Python virtual environments and bytecode
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+
+# Local CrewAI state and generated output
+.crewai/
+output/
+
+# Editor and test tooling
+.vscode/
+.pytest_cache/
+.coverage
+htmlcov/
